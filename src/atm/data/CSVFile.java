@@ -8,7 +8,7 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.List;
 
-import atm.stuff.CashContainer;
+import atm.atmstuff.CashContainer;
 import atm.user.options.User;
 
 /**

@@ -1,4 +1,4 @@
-package atm.stuff;
+package atm.atmstuff;
 import java.util.Scanner;
 
 import atm.data.CSVFile;

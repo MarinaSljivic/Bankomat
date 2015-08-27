@@ -1,4 +1,4 @@
-package atm.stuff;
+package atm.atmstuff;
 
 /**
  * ATM's container of cash (10$, 20$, 50$ and 100$) each banknote can't be set to more than 100.

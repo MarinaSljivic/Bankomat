@@ -1,4 +1,4 @@
-package atm.stuff;
+package atm.atmstuff;
 import java.io.IOException;
 import java.util.List;
 
