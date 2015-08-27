@@ -1,10 +1,10 @@
-package atm.session.stuff;
+package atm.stuff;
 import java.util.Scanner;
 
-import atm.beans.User;
 import atm.data.CSVFile;
 import atm.user.options.AdminUser;
 import atm.user.options.RegularUser;
+import atm.user.options.User;
 
 
 /**

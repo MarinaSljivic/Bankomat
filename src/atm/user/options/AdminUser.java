@@ -2,10 +2,9 @@ package atm.user.options;
 
 import java.util.Scanner;
 
-import atm.beans.User;
 import atm.data.CSVFile;
-import atm.session.stuff.ATM;
-import atm.session.stuff.ATMSession;
+import atm.stuff.ATM;
+import atm.stuff.ATMSession;
 
 /**
  * This class contains all the options for an administrator user.

@@ -1,4 +1,4 @@
-package atm.beans;
+package atm.user.options;
 
 /**
  * ATM's User in accordance with the users.csv file

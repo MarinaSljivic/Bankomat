@@ -8,8 +8,8 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.List;
 
-import atm.beans.CashContainer;
-import atm.beans.User;
+import atm.stuff.CashContainer;
+import atm.user.options.User;
 
 /**
  * Reads and writes to the csv files.

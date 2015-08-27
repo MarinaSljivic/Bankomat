@@ -1,7 +1,7 @@
 package atm;
 import java.io.IOException;
 
-import atm.session.stuff.ATM;
+import atm.stuff.ATM;
 
 /**
  * @author Marina Sljivic

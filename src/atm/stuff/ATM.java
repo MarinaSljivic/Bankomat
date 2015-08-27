@@ -1,10 +1,9 @@
-package atm.session.stuff;
+package atm.stuff;
 import java.io.IOException;
 import java.util.List;
 
-import atm.beans.CashContainer;
-import atm.beans.User;
 import atm.data.CSVFile;
+import atm.user.options.User;
 
 /**
  * @author Marina Sljivic
